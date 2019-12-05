@@ -1,1 +1,2 @@
-print("test_git")
+print("test_push")
+print("test_pull")
